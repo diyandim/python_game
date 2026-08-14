@@ -10,3 +10,5 @@ wheels/
 .venv
 __pycache__/
 game_state.jsonl
+game_events.jsonl
+
